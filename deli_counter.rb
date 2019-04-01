@@ -4,7 +4,14 @@ katz_deli = []
 def line(deli)
     if deli.empty?  
   puts "The line is currently empty."
+    else
+    
+  
+  
 end
+
+
+
 
 def take_a_number(katz_deli, name_of_the_person)
   name_of_the_person.each_with_index.map do |name_of_the_person, index|

@@ -1,7 +1,7 @@
 # Write your code here.
 katz_deli = []
 
-def line
+def line(deli)
     if line.empty?  
   puts "The line is currently empty."
 end
